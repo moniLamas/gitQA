@@ -2,7 +2,6 @@ package com.hiberusUniversity.monilamas.maven.first.App;
 
 /**
  * Hello world!
- * Good morning!
  *
  */
 public class cApp
