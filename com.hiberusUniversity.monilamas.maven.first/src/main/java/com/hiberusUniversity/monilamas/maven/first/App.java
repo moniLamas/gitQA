@@ -1,10 +1,10 @@
-package com.hiberusUniversity.monilamas.maven.first.App;
+package com.hiberusUniversity.monilamas.maven.first;
 
 /**
  * Hello world!
  *
  */
-public class cApp
+public class App
 {
     public static void main( String[] args )
     {
